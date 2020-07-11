@@ -5,7 +5,7 @@
     color: pink;
 }
 h3 {
-
+    font-size: 3em;
     border: 10px solid purple;
     margin: 10px;
     border-radius: 25px;
@@ -18,9 +18,7 @@ article {
 img {
     size: 10%;
 }
-h3 {
-    font-size: 3em;
-}
+
 footer {
     
     font-style: italic;
