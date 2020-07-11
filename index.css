@@ -1,0 +1,26 @@
+::backdrop {
+    background-color: lightblue;
+}
+
+h3 {
+
+    border: 10px solid purple;
+    margin: 20px;
+    border-radius: 25px;
+    border-width: 1cm;
+}
+article {
+    color: gray;
+    
+}
+img {
+    size: 10%;
+}
+h3 {
+    font-size: 3em;
+}
+
+
+aside {
+    background-color: lightpink;
+}
