@@ -5,11 +5,11 @@
     color: pink;
 }
 h3 {
-    font-size: 3em;
-    border: 10px solid purple;
-    margin: 10px;
+    font-size: 1.5em;
+    border: 5px solid purple;
+    margin: 5px;
     border-radius: 25px;
-    border-width: 1cm;
+    border-width: 0.5cm;
 }
 article {
     color: gray;
