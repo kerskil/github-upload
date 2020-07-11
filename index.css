@@ -1,7 +1,9 @@
 ::backdrop {
     background-color: lightblue;
 }
-
+.banner {
+    color: pink;
+}
 h3 {
 
     border: 10px solid purple;
