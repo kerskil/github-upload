@@ -6,15 +6,18 @@
     padding: 0.1cm;
 }
 h3 {
+    text-align: center;
     font-size: 1.5em;
     border: 0.1px solid purple;
     display: inline;
     margin: 10px;
-    
     border-radius: 15px;
     border-width: 0.1cm;
     padding: 0.1cm;
 }
+    body {
+        text-align: center;
+    }
 article {
     color: gray;
     
